@@ -1,4 +1,4 @@
-# Modern Web Calculator 🧮
+#  Web Calculator 🧮
 
 A modern, fully responsive, and feature-rich Calculator application built with HTML, CSS, and vanilla JavaScript. This project was developed as a frontend practice project to demonstrate clean UI/UX design, interactive key events, and dynamic logic implementation.
 
